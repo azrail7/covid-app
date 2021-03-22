@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\bin\Debug\Covid.exe.config
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\bin\Debug\Covid.exe
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\bin\Debug\Covid.pdb
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\obj\Debug\Covid.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\obj\Debug\Covid.CovidForm.resources
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\obj\Debug\Covid.Properties.Resources.resources
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\obj\Debug\Covid.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\obj\Debug\Covid.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\obj\Debug\Covid.exe
+C:\Users\Daniel\Desktop\ΕΡΓΑΣΙΕΣ\C#\Covid-SQLite\Covid\Covid\obj\Debug\Covid.pdb
